@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\bin\Debug\Zeidel_Relax.exe.config
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\bin\Debug\Zeidel_Relax.exe
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\bin\Debug\Zeidel_Relax.pdb
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\obj\Debug\Zeidel_Relax.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\obj\Debug\Zeidel_Relax.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\obj\Debug\Zeidel_Relax.exe
+C:\Users\User\source\repos\Zeidel_Relax\Zeidel_Relax\obj\Debug\Zeidel_Relax.pdb
